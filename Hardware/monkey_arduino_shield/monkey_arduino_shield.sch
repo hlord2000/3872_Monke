@@ -436,7 +436,7 @@ U 1 1 614A55C8
 P 2500 2850
 F 0 "J2" H 2557 3175 50  0000 C CNN
 F 1 "Barrel_Jack" H 2557 3084 50  0000 C CNN
-F 2 "Connector_BarrelJack:BarrelJack_Horizontal" H 2550 2810 50  0001 C CNN
+F 2 "Socket_Arduino_Uno:BarrelJack_Horizontal_Helmer_Version" H 2550 2810 50  0001 C CNN
 F 3 "~" H 2550 2810 50  0001 C CNN
 	1    2500 2850
 	1    0    0    -1  
